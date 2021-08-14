@@ -1,5 +1,5 @@
 @This is Combine work of 
-Gurmeet kaur Arora   ( gmtarora98@gmail.com)
+Gurmeet kaur Arora   ( gmtarora98@gmail.com) and
 Abhishek Singh       ( abhishek_magic33@yahoo.com)
 
 Node Red Demonstration Link :  https://superindianpremierleagueprediction.eu-gb.mybluemix.net/ui/#!/2?socketid=c4nnCSY-26-asSy0AACB
